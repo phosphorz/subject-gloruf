@@ -1,17 +1,45 @@
-= Taffy
+= Subject: GloRuF
 
-Taffy is a boy that endured so many problems in his life. He has been bullied basically throughout his life. To make it worse, he has a glowing hand that stores deep power within. He never wanted to use his hand to hurt people in any way. Ever.
+Subject data was fetched from @HDX13-BeatCode with proper permissions from the 
+original information owner. The entity is described as "a boy with a super hand 
+that had dark days" (originally "a boy with massive power").
 
-He eventually hide himself from the society by living in the middle of the forest, alone. Inside an abandoned house, he makes melodic drops that the world has never heard of. Until now.
+== Details
 
-== License
+[source,ruby]
+----
 
-This repository, the story, and Taffy's music (the soundtrack) are licensed under CC-BY-SA-4.0. It means, you can use any of the contents here in any media as long as you give credits to me. At least like this:
+subject = get_subject_data(
+
+subject.id = 88c134a45d63085e8dda19b4796010d2
+subject.code = "GloRuF"
+subject.name = "Alex Gordon"
+subject.alias = "Taffy"
+subject.titles = [ "Glowing Rubber Fist", "NeonFist" ]
+subject.description = "A boy with a super hand that had dark days"
+
+----
+
+== Original Fetched Data
+
+Taffy is a boy that endured so many problems in his life. He has been bullied 
+basically throughout his life. To make it worse, he has a glowing hand that 
+stores deep power within. He never wanted to use his hand to hurt people in 
+any way. Ever.
+
+He eventually hide himself from the society by living in the middle of the 
+forest, alone. Inside an abandoned house, he makes melodic drops that the 
+world has never heard of. Until now.
+
+This repository, the story, and Taffy's music (the soundtrack) are licensed 
+under CC-BY-SA-4.0. It means, you can use any of the contents here in any media 
+as long as you give credits to me. At least like this:
 
 > Taffy by HDX13
-> Story		: https://github.com/HDX13-BeatCode/taffy  
-> Soundtracks	: https://soundcloud.com/hdx13/sets/taffy
->     "Taffy"	: https://youtu.be/p1wdlGcvNKs[YouTube] | https://soundcloud.com/hdx13/taffy[SoundCloud] 
+> 
+> * Story         : https://github.com/HDX13-BeatCode/taffy  
+> * Soundtracks	  : https://soundcloud.com/hdx13/sets/taffy
+> ** "Taffy"      : https://youtu.be/p1wdlGcvNKs[YouTube] | https://soundcloud.com/hdx13/taffy[SoundCloud] 
 
 
 
